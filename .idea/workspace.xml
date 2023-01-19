@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0069fd89-6e28-4d84-8b93-5f0c9555dd21" name="Changes" comment="домашняя работа циклы урок 1" />
+    <list default="true" id="0069fd89-6e28-4d84-8b93-5f0c9555dd21" name="Changes" comment="start commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,15 +73,22 @@
       <option name="project" value="LOCAL" />
       <updated>1674114739618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start commit">
+      <created>1674135603559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674135603559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="start commit" />
     <MESSAGE value="домашняя работа циклы урок 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="домашняя работа циклы урок 1" />
+    <MESSAGE value="start commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="start commit" />
   </component>
 </project>
