@@ -143,7 +143,7 @@ public class HomeWork {
     public static void task10() {
         System.out.println();
         System.out.println("Задача 10");
-        int a = 6;
+        int a = 2;
         for (int i = 1; i <=10 ; i++) {
 
                 System.out.println(a + "*" + i + "=" + (a*i));
